@@ -1,0 +1,9 @@
+[33m069666c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32msprint-4[m[33m, [m[1;31morigin/sprint-3[m[33m, [m[1;32msprint-3[m[33m)[m Sprint 3: initial commit
+[33m3efc156[m[33m ([m[1;31morigin/sprint-2[m[33m, [m[1;32msprint-2[m[33m)[m feat: add Bus and Booking mongoose models
+[33mb08889a[m feat: register bus and booking routes in app
+[33m6ff2fa1[m feat: add booking routes POST /api/bookings
+[33m21f7bfe[m feat: add booking controller with createBooking and getMyBookings
+[33m434a8cc[m[33m ([m[1;31morigin/sprint-1[m[33m, [m[1;32msprint-1[m[33m)[m feat: add Bus model with mongoose schema
+[33ma0526ef[m YatraGo backend project
+[33m797f21a[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m update contributor stats
+[33m463ce7e[m commit
